@@ -1,1 +1,1 @@
-web: java -server.port=${PORT: 8080} $JAVA_OPTS -jar build/libs/demo-0.0.1-SNAPSHOT.jar
+web: java -server.port=${PORT: 8080}
