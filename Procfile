@@ -1,1 +1,1 @@
-web: java -server.port=${PORT: 8080}
+web: java -Dserver.port=${PORT: 8080}
