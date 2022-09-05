@@ -35,7 +35,7 @@ A simple chat room application.
   
 ## How To Use
 
-- install the Java JDK 8.
+- install Java JDK 8.
 - install RabbitMQ and start the server.
 - install the STOMP plugin for RabbitMQ.
 - Clone the project and build it in your Java IDE of choice.
