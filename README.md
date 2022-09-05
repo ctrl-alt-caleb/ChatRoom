@@ -1,6 +1,6 @@
 # Chat Room
 
-A simple chat room application.
+A simple web chat room application.
   
 ###
 ---
@@ -31,7 +31,7 @@ A simple chat room application.
 
 ## Description
   
- A chat room application made using Java, Spring Boot, Websocket (STOMP), & RabbitMQ.
+ A web chat room application made using Java, Spring Boot, Websocket (STOMP), & RabbitMQ.
   
 ## How To Use
 
