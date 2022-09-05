@@ -23,7 +23,8 @@ A simple chat room application.
 </div>
 
 <div class='container'align='center'>
-  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/JavaChatclip.gif" width="800" height="400"><br><br>
+  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/JavaChatclip.gif" width="800" height="400">
+  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/rabbitMQpic.PNG" width="800" height="400"><br><br>
 </div>
 
  
@@ -36,6 +37,7 @@ A simple chat room application.
 
 - install the Java JDK 8.
 - install RabbitMQ and start the server.
+- install the STOMP plugin for RabbitMQ.
 - Clone the project and build it in your Java IDE of choice.
 
 
