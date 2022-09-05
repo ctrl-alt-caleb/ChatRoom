@@ -18,12 +18,12 @@ A simple chat room application.
 
 
 <div class='container'align='center'>
-  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/JavaChatclip.gif" width="800" height="500"><br><br>
+  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/JavaChatclip.gif" width="800" height="400"><br><br>
 </div>
 
 <div class='container'align='center'>
-  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/javachatLogin1.PNG" width="800" height="350">
-  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/javachatRoom1.PNG" width="800" height="350">
+  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/javachatLogin1.PNG" width="600" height="350">
+  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/javachatRoom1.PNG" width="600" height="350">
 </div>
 
 
