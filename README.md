@@ -23,7 +23,7 @@ A simple chat room application.
 </div>
 
 <div class='container'align='center'>
-  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/JavaChatclip.gif" width="800" height="400"><br>
+  <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/JavaChatclip.gif" width="800" height="400"><br><br>
   <img src="https://github.com/ctrl-alt-caleb/ChatRoom/blob/main/Images/rabbitMQpic.PNG" width="800" height="400"><br><br>
 </div>
 
